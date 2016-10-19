@@ -1,0 +1,1 @@
+sudo -su mapr ./run-kafka-spark-streaming.sh localhost:5181 group1 rfid 1 10 "jdbc:splice://srv122:1527/splicedb;user=splice;password=admin"

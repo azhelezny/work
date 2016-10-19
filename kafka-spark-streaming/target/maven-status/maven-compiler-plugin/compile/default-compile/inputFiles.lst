@@ -1,0 +1,6 @@
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/SaveRDDWithPartition.java
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/SavePartitionWithVTI.java
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/TupleFunction.java
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/SensorMessageVTI.java
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/SensorMessage.java
+/Users/azhelezny/projects/my/kafka-spark-streaming/src/main/java/com/splicemachine/tutorials/sparkstreaming/kafka/SparkStreamingKafka.java

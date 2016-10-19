@@ -1,0 +1,6 @@
+com/splicemachine/tutorials/sparkstreaming/kafka/SavePartitionWithVTI.class
+com/splicemachine/tutorials/sparkstreaming/kafka/SensorMessageVTI.class
+com/splicemachine/tutorials/sparkstreaming/kafka/SaveRDDWithPartition.class
+com/splicemachine/tutorials/sparkstreaming/kafka/TupleFunction.class
+com/splicemachine/tutorials/sparkstreaming/kafka/SparkStreamingKafka.class
+com/splicemachine/tutorials/sparkstreaming/kafka/SensorMessage.class
